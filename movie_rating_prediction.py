@@ -23,4 +23,4 @@ To predict movie ratings using features such as genre, year, votes and runtime.
 - Model performance evaluation
 
 ### Author
-Ashutosh Mishra
+Prem Yadav
