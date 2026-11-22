@@ -23,4 +23,4 @@ To analyze passenger information such as age, gender, ticket class and fare to p
 - Model accuracy evaluation
 
 ### Author
-Ashutosh Mishra
+Prem Yadav
